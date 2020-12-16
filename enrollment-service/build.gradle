@@ -4,7 +4,7 @@ plugins {
 	id 'java'
 }
 
-group = 'com.damithn.class-service'
+group = 'com.damithn.enrollment-service'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '1.8'
 

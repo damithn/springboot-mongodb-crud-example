@@ -1,10 +1,10 @@
-package com.damithn.classservice;
+package com.damithn.enrollmentservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ClassServiceApplicationTests {
+class EnrollmentServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
